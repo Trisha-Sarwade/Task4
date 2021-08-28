@@ -4,6 +4,7 @@ body {
     font-size: 14rem;
     line-height: 1.285;
     padding: 0%;
+    margin: 0%;
     /*margin: 0%;*/
 }
 
@@ -125,7 +126,7 @@ p {
 
 .right {
     float: left;
-    margin-left: 2.9vw;
+    margin-left: 2.8vw;
     display: block;
     width: 25vw;
     /*margin-right: 20vw;*/
@@ -152,6 +153,7 @@ p {
     display: block;
     background: #1F858F;
     margin: 0%;
+    width: 100%;
     position: relative;
     text-align: center;
 }
@@ -235,12 +237,13 @@ b {
 }
 
 .right_blue {
-    width: 40%;
+    width: 50%;
     text-align: center;
 }
 
 .campaign {
     padding-left: 0%;
+    padding-right: 0%;
     display: block;
 }
 
